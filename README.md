@@ -1,4 +1,4 @@
-# DesiQnA Interview Experiences (Frontend)
+# Interview Experiences Website (Frontend)
 
 A static frontend website showing company-wise interview experiences.
 
