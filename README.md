@@ -3,9 +3,9 @@
 A static frontend website showing company-wise interview experiences.
 
 Tech Stack:
-- HTML
-- CSS
-- JavaScript
+HTML
+CSS
+JavaScript
 
 Author: Sunny Umrewal
-https://www.linkedin.com/in/sunnyumrewal/
+Live demo available via GitHub Pages.
